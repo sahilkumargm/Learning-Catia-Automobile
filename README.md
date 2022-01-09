@@ -13,7 +13,6 @@ Using a flange assemble for practice, I learnt most of the basics commands in CA
 6. Projecting different views (top, front, side, and orthographic, as wel as cut-section)
 7. Dimensioning in drawing
 8. Exporting the drawing as a PDF.
-
 You may see the final drawing in the "Flange-Assembly-Drawing.pdf" file and the final assembly in the "Flange-Assembly.CATProduct" file.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
